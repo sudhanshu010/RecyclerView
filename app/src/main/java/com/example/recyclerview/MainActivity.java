@@ -22,7 +22,7 @@ public class MainActivity extends AppCompatActivity {
 
         recyclerView = findViewById(R.id.recyclerView);
         itemList = new ArrayList<Item>();
-
+            kbbmbmbm,nm,
         System.out.println("heyy");
         Item item1 = new Item("sudhanshu");
         Item item2 = new Item("sudhanshu");
