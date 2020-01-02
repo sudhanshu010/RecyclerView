@@ -27,6 +27,9 @@ public class MainActivity extends AppCompatActivity {
 
 
         itemList = new ArrayList<Item>();
+
+
+        itemList = new ArrayList<Item>();bcjlknjbhcg;
         System.out.println("heyy");
         Item item1 = new Item("sudhanshu");
         Item item2 = new Item("sudhanshu");
