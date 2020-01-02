@@ -21,10 +21,15 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         recyclerView = findViewById(R.id.recyclerView);
-        itemList = new ArrayList<Item>();fdgsdgddgd
+        itemList = new ArrayList<Item>();
 
+        jflsadjflsdjflsdjfj
+    ksdghkldgkelj
 
         itemList = new ArrayList<Item>();
+
+
+        itemList = new ArrayList<Item>();bcjlknjbhcg;
         System.out.println("heyy");
         Item item1 = new Item("sudhanshu");
         Item item2 = new Item("sudhanshu");
