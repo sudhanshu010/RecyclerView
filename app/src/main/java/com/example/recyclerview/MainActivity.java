@@ -24,7 +24,7 @@ public class MainActivity extends AppCompatActivity {
         itemList = new ArrayList<Item>();
 
         jflsadjflsdjflsdjfj
-
+    ksdghkldgkelj
 
         itemList = new ArrayList<Item>();
 
