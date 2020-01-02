@@ -21,7 +21,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         recyclerView = findViewById(R.id.recyclerView);
-        itemList = new ArrayList<Item>();
+        itemList = new ArrayList<Item>();fdgsdgddgd
 
 
         System.out.println("heyy");
